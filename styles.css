@@ -67,7 +67,7 @@ transition: .3s;
 /*  본문 내용  */
 /* 홈 본문 */
 .homearticle {
-  background-image: url(/디농개\ 과제/IMG_1811.JPG);
+  background-image: url("IMG_1811.JPG");
   background-repeat : no-repeat;
   background-size : cover;
   padding-top: 70px;
