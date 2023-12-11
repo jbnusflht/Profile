@@ -1,4 +1,6 @@
 html, body {
+  color: #333333;
+  font-family: Georgia, Serif; 
   margin: 0px; padding: 0px;
   color: rgb(0, 0, 0);
 }
@@ -109,7 +111,7 @@ transition: .3s;
 .amarticle2 {
   padding-left: 35%;
 }
-/* 커리어 본문 */
+/* 히스토리 본문 */
 .historyarticle {
 padding-top: 1px;
 background-color: #e9c46a;
@@ -120,6 +122,9 @@ border-bottom: 1px dashed black;
 }
 .historytitle {
   text-align: center;
+}
+.date {
+  color: #40407d;
 }
 .sentence {
   line-height: 160%;
